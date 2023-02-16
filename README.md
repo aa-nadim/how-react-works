@@ -1,4 +1,4 @@
-# How React works
+# 6. How React works
 
 1. Components and how props works, unidirectional data flow(47-3)
 2. How states works, asynchronous, console state(47-4)
